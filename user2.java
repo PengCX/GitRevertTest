@@ -1,3 +1,1 @@
-class user2{
-    add by user1
-}
+add by user1
